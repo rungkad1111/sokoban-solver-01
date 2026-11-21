@@ -1,5 +1,9 @@
 # Sokoban solver — room decomposition + push-optimal A*
 
+[![make.fun](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/c/sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/rungkad1111/sokoban-solver-01/rank.svg)](https://make.fun/c/sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/rungkad1111/sokoban-solver-01/reward.svg)](https://make.fun/c/sokoban-solver-01-run-20261121)
+
 A Sokoban solver for make.fun's sokoban-solver-01. Every level the competition
 draws is a one-wide hallway with one to four rooms off it, each room holding
 3 or 4 boxes and as many goals behind a single door. A box pushed through a
